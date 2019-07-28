@@ -58,7 +58,8 @@ class EventListener implements Listener{
 	private const CRATE_BLOCKS = [
 		Block::CHEST,
 		Block::ENDER_CHEST,
-		Block::TRAPPED_CHEST
+		Block::TRAPPED_CHEST,
+		Block::ENDER_PORTAL_FRAME
 	];
 
 	/**
