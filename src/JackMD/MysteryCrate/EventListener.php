@@ -59,7 +59,7 @@ class EventListener implements Listener{
 		Block::CHEST,
 		Block::ENDER_CHEST,
 		Block::TRAPPED_CHEST,
-		Block::ENDER_PORTAL_FRAME
+		Block::END_PORTAL
 	];
 
 	/**
